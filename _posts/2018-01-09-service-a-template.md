@@ -1,0 +1,23 @@
+---
+ID: 1168
+post_title: Service A Template
+author: user
+post_excerpt: ""
+layout: post
+permalink: >
+  http://mu-load-elb-1uxxgyspdswuq-801125805.us-east-1.elb.amazonaws.com/2018/01/09/service-a-template/
+published: true
+post_date: 2018-01-09 22:50:59
+---
+<div id="pl-1168"  class="panel-layout" ><div id="pg-1168-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-1168-0-0"  class="panel-grid-cell"  data-weight="0.24" ><div id="panel-1168-0-0-0" class="so-panel widget widget_text panel-first-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >			<div class="textwidget"><p>Deliverable(s)</p>
+</div>
+		</div><div id="panel-1168-0-0-1" class="so-panel widget widget_sow-button panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >[siteorigin_widget class="SiteOrigin_Widget_Button_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;text&quot;:&quot;Back-up&quot;,&quot;url&quot;:&quot;&quot;,&quot;new_window&quot;:true,&quot;button_icon&quot;:{&quot;icon_selected&quot;:&quot;fontawesome-copy&quot;,&quot;icon_color&quot;:false,&quot;icon&quot;:0,&quot;so_field_container_state&quot;:&quot;open&quot;},&quot;design&quot;:{&quot;width&quot;:false,&quot;width_unit&quot;:&quot;px&quot;,&quot;align&quot;:&quot;left&quot;,&quot;theme&quot;:&quot;flat&quot;,&quot;button_color&quot;:&quot;#dd9933&quot;,&quot;text_color&quot;:false,&quot;font&quot;:&quot;default&quot;,&quot;font_size&quot;:&quot;1&quot;,&quot;rounding&quot;:&quot;0.25&quot;,&quot;padding&quot;:&quot;1&quot;,&quot;so_field_container_state&quot;:&quot;open&quot;,&quot;hover&quot;:false},&quot;attributes&quot;:{&quot;id&quot;:&quot;&quot;,&quot;classes&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;onclick&quot;:&quot;&quot;,&quot;rel&quot;:&quot;&quot;,&quot;so_field_container_state&quot;:&quot;closed&quot;},&quot;_sow_form_id&quot;:&quot;5a554817a83ee&quot;,&quot;_sow_form_timestamp&quot;:&quot;1515538571843&quot;},&quot;args&quot;:{&quot;before_widget&quot;:&quot;&lt;div id=\&quot;panel-1168-0-0-1\&quot; class=\&quot;so-panel widget widget_sow-button panel-last-child\&quot; data-index=\&quot;1\&quot; data-style=\&quot;{&amp;quot;background_display&amp;quot;:&amp;quot;tile&amp;quot;}\&quot; &gt;&quot;,&quot;after_widget&quot;:&quot;&lt;\/div&gt;&quot;,&quot;before_title&quot;:&quot;&lt;h3 class=\&quot;widget-title\&quot;&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/h3&gt;&quot;,&quot;widget_id&quot;:&quot;widget-0-0-1&quot;}}" />[/siteorigin_widget]</div></div><div id="pgc-1168-0-1"  class="panel-grid-cell"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;vertical_alignment&quot;:&quot;auto&quot;}"  data-weight="0.6" ><div id="panel-1168-0-1-0" class="so-panel widget widget_text panel-first-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >			<div class="textwidget"><p>Description</p>
+</div>
+		</div><div id="panel-1168-0-1-1" class="so-panel widget widget_text panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >			<div class="textwidget"><p>Based on a user-defined schedule, you get backups and restoration of infrastructure stacks, data, and storage. In the event of an outage or upon request, you can restore backups including EBS volumes or RDS database snapshots.</p>
+</div>
+		</div></div><div id="pgc-1168-0-2"  class="panel-grid-cell"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;vertical_alignment&quot;:&quot;auto&quot;}"  data-weight="0.16" ><div id="panel-1168-0-2-0" class="so-panel widget widget_text panel-first-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >			<div class="textwidget"><p>Tools</p>
+</div>
+		</div><div id="panel-1168-0-2-1" class="so-panel widget widget_text panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >			<div class="textwidget"><p><a href="https://aws.amazon.com/backup-recovery/" target="_blank" rel="noopener">AWS Back-up and Recovery</a>, <a href="https://www.commvault.com/solutions/by-technology/virtual-machine-and-cloud/amazon-web-services" target="_blank" rel="noopener">CommVault on AWS</a>,  <a href="https://www.commvault.com/solutions/by-technology/virtual-machine-and-cloud/microsoft-azure" target="_blank" rel="noopener">Commvault on Azure</a></p>
+<p>&nbsp;</p>
+</div>
+		</div></div></div></div>
